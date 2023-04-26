@@ -648,6 +648,7 @@ ul.btn li:last-child {
 
 .work figure {
      margin: 0;
+     
 }
 
 .work figure img {
@@ -691,7 +692,7 @@ ul.btn li:last-child {
 }
 
 .blu {
-     color: #14213D;
+     color: #ffffff;
      font-size: 17px;
      line-height: 28px;
      font-weight: 600;
